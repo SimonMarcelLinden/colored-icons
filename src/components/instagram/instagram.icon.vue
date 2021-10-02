@@ -1,9 +1,9 @@
 <template>
 	<div class="colored-instagram">
-		<i class="colored-icon-social-test-background"></i>
-		<i class="colored-icon-social-test-ring-outside"></i>
-		<i class="colored-icon-social-test-ring-inner"></i>
-		<i class="colored-icon-social-test-circle-right-top"></i>
+		<i class="colored-icon-social-intagram-background"></i>
+		<i class="colored-icon-social-intagram-ring-outside"></i>
+		<i class="colored-icon-social-intagram-ring-inner"></i>
+		<i class="colored-icon-social-intagram-circle-right-top"></i>
 	</div>
 </template>
 
