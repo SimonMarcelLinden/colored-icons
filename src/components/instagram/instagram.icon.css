@@ -1,0 +1,35 @@
+.colored-instagram {
+	position: relative;
+}
+
+.colored-instagram i {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.colored-icon-social-intagram-background {
+	color: transparent;
+	background: -webkit-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+	z-index: 1;
+}
+.colored-icon-social-intagram-ring-outside {
+	color: #ffffff;
+	z-index: 2;
+}
+.colored-icon-social-intagram-ring-inner {
+	color: #ffffff;
+	z-index: 4;
+}
+.colored-icon-social-intagram-circle-inner {
+	color: transparent;
+	z-index: 5;
+}
+.colored-icon-social-intagram-circle-right-top {
+	color: #ffffff;
+	z-index: 6;
+}

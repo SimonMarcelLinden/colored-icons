@@ -1,0 +1,17 @@
+.colored-facebook {
+    position: relative;
+}
+.colored-facebook i {
+    position    : absolute;
+    top         : 50%;
+    left        : 50%;
+    transform   : translate(-50%, -50%);
+}
+
+.colored-icon-social-facebook-background {
+    color: #4267B2
+}
+
+.colored-icon-social-facebook-font {
+    color: #ffffff
+}
