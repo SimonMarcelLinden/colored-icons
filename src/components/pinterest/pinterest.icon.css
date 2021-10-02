@@ -1,0 +1,84 @@
+.colored-pinterest {
+    position: relative;
+}
+
+.colored-pinterest i {
+    position : absolute;
+    top      : 50%;
+    left     : 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* .colored-pinterest {
+    color: #005062;
+}
+.colored-pinterest {
+    color: #4267b2;
+}
+.colored-pinterest {
+    color: #dafff6;
+} */
+
+.colored-pinterest.red-light {
+    color: #ee376a;
+}
+
+.colored-pinterest.red {
+    color: #e60023;
+}
+
+.colored-pinterest.red-dark {
+    color: #9c0343;
+}
+
+.colored-pinterest.yellow-light {
+    color: #fffd92;
+}
+
+.colored-pinterest.yellow {
+    color: #fdc900;
+}
+
+.colored-pinterest.orange {
+    color: #ff5b45;
+}
+
+.colored-pinterest.orange-light {
+    color: #ffe4c1;
+}
+
+.colored-pinterest.green-light {
+    color: #cfffca;
+}
+
+.colored-pinterest.green {
+    color: #00b56f;
+}
+
+.colored-pinterest.green-dark {
+    color: #009990;
+}
+
+.colored-pinterest.blue-light {
+    color: #d7edff;
+}
+
+.colored-pinterest.blue {
+    color: #007cff;
+}
+
+.colored-pinterest.blue-dark {
+    color: #003c96;
+}
+
+.colored-pinterest.purple-light {
+    color: #dad4ff;
+}
+
+.colored-pinterest.purble {
+    color: #ffe2eb;
+}
+
+.colored-pinterest.purple-dark {
+    color: #770dff;
+}
