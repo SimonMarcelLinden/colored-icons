@@ -22,7 +22,10 @@
     "postbuild": "rimraf ./dist/types/dev ./dist/types/src/entry.d.ts"
   },
   "dependencies": {
-    "fantasticon": "^1.2.2"
+    "fantasticon": "^1.2.2",
+    "node-sass": "^4.14.1",
+    "sass": "^1.35.1",
+    "sass-loader": "^8.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.6",
