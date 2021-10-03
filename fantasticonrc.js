@@ -1,7 +1,7 @@
 module.exports = {
 	name: 'colored-icon',
 	inputDir: './src/icons', // (required)
-	outputDir: './dist/fonts', // (required)
+	outputDir: './src/scss/fonts', // (required)
 	fontTypes: ['ttf', 'woff', 'woff2', 'eot', 'svg'],
 	assetTypes: ['ts', 'css', 'scss', 'sass', 'json', 'html'],
 	fontsUrl: '.',
