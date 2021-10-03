@@ -1,8 +1,8 @@
 <template>
-	<div class="colored-facebook">
+	<span class="colored-icon colored-facebook">
 		<i class="colored-icon-social-facebook-background"></i>
 		<i class="colored-icon-social-facebook-font"></i>
-	</div>
+	</span>
 </template>
 
 <script src="./facebook.icon.ts" lang="ts"></script>

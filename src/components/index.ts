@@ -1,4 +1,5 @@
-import '@/fonts/colored-icon.scss';
+import '@/scss/fonts/colored-icon.scss';
+import '@/scss/basic.scss';
 
 /* eslint-disable import/prefer-default-export */
 export { default as ColoredFacebook } from '@/components/facebook/facebook.icon.vue';

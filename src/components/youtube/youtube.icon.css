@@ -1,18 +1,8 @@
-.colored-youtube {
-    position: relative;
-}
-.colored-youtube i {
-    position    : absolute;
-    top         : 50%;
-    left        : 50%;
-    transform   : translate(-50%, -50%);
-}
-
 .colored-icon-social-youtube-button {
-    color: #FF0000;
-    z-index: 1;
+	color	: #FF0000;
+	z-index	: 1;
 }
 .colored-icon-social-youtube-play {
-    color: #ffffff;
-    z-index: 2;
+	color	: #ffffff;
+	z-index	: 2;
 }

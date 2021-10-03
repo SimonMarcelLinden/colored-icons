@@ -1,19 +1,9 @@
-.colored-linkedin {
-    position: relative;
-}
-.colored-linkedin i {
-    position    : absolute;
-    top         : 50%;
-    left        : 50%;
-    transform   : translate(-50%, -50%);
-}
-
 .colored-icon-social-linkedin-background {
-    color   : #2267b0;
-    z-index : 1;
+	color	: #2267b0;
+	z-index : 1;
 }
 
 .colored-icon-social-linkedin-font{
-    color   : #ffffff;
-    z-index : 2;
+	color	: #ffffff;
+	z-index : 2;
 }

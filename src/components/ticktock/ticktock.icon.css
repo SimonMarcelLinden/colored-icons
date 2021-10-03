@@ -1,26 +1,16 @@
-.colored-ticktock {
-    position: relative;
-}
-.colored-ticktock i {
-    position    : absolute;
-    top         : 50%;
-    left        : 50%;
-    transform   : translate(-50%, -50%);
-}
-
 .colored-icon-social-ticktock-background {
-    color: #000000;
-    z-index: 1;
+	color	: #000000;
+	z-index	: 1;
 }
 .colored-icon-social-ticktock-pink {
-    color: #ee1d52;
-    z-index: 1;
+	color	: #ee1d52;
+	z-index	: 1;
 }
 .colored-icon-social-ticktock-turquoise {
-    color: #69c9d0;
-    z-index: 1;
+	color	: #69c9d0;
+	z-index	: 1;
 }
 .colored-icon-social-ticktock-white {
-    color: #ffffff;
-    z-index: 1;
+	color	: #ffffff;
+	z-index	: 1;
 }

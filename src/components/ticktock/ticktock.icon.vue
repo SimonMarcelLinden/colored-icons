@@ -1,10 +1,10 @@
 <template>
-	<div class="colored-ticktock">
+	<span class="colored-icon colored-ticktock">
 		<i class="colored-icon-social-ticktock-background"></i>
 		<i class="colored-icon-social-ticktock-pink"></i>
 		<i class="colored-icon-social-ticktock-turquoise"></i>
 		<i class="colored-icon-social-ticktock-white"></i>
-	</div>
+	</span>
 </template>
 
 <script src="./ticktock.icon.ts" lang="ts"></script>

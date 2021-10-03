@@ -1,18 +1,8 @@
-.colored-twitter {
-    position: relative;
-}
-.colored-twitter i {
-    position    : absolute;
-    top         : 50%;
-    left        : 50%;
-    transform   : translate(-50%, -50%);
-}
-
 .colored-icon-social-twitter-background {
-    color: #399bd6;
-    z-index: 1;
+	color	: #399bd6;
+	z-index	: 1;
 }
 .colored-icon-social-twitter-bird {
-    color: #ffffff;
-    z-index: 2;
+	color	: #ffffff;
+	z-index	: 2;
 }
